@@ -9,6 +9,6 @@ def is_prime(x):
             if ( x % n) == 0:
                 Prime = False
                 break
-            else:
-                Prime = True
+            #else:
+                #Prime = True
     return Prime
